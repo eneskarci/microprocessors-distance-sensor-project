@@ -1,14 +1,12 @@
-﻿# MSP430G2553 Distance Measurement System
 
-⚠ Akademik Uyarı
+⚠ Uyarı
 
 Bu proje tarafımdan ders kapsamında geliştirilmiştir.
 
-İzinsiz kopyalanması veya akademik amaçla teslim edilmesi yasaktır.
+Bu projenin kopyalanması veya izinsiz kullanılması yasaktır.
 Lütfen kendi emeğinizle çalışın. Kullanmak isterseniz önce benimle iletişime geçiniz.
 
-
-=== 
+ 
 🇹🇷 TÜRKÇE 
 ===
 
@@ -63,7 +61,6 @@ Gerçekleştirilen yazılım çalışmaları:
 - Gerçek zamanlı mesafe ölçümü
 
 
-=== 
 🇬🇧 ENGLISH 
 ====
 
