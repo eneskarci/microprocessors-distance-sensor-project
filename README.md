@@ -8,7 +8,9 @@ Bu proje tarafımdan ders kapsamında geliştirilmiştir.
 Lütfen kendi emeğinizle çalışın. Kullanmak isterseniz önce benimle iletişime geçiniz.
 
 
-=== 🇹🇷 TÜRKÇE ===
+=== 
+🇹🇷 TÜRKÇE 
+===
 
 ## Proje Özeti
 
@@ -61,7 +63,9 @@ Gerçekleştirilen yazılım çalışmaları:
 - Gerçek zamanlı mesafe ölçümü
 
 
-=== 🇬🇧 ENGLISH ====
+=== 
+🇬🇧 ENGLISH 
+====
 
 ## Project Overview
 
